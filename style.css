@@ -1,0 +1,16 @@
+#freelancer-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+#freelancer-list li {
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+}
+
+#freelancer-list strong {
+  color: #333;
+}
